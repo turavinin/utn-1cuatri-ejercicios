@@ -124,3 +124,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.cdt.core 1 0 2021-04-03 11:36:30.303
 !MESSAGE Indexed 'Clase 4 - Ej 1' (1 sources, 10 headers) in 0,268 sec: 875 declarations; 1.698 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-04-03 13:12:45.670
+!MESSAGE Indexed 'Clase 4 - Ej 2' (1 sources, 10 headers) in 0,073 sec: 875 declarations; 1.698 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
