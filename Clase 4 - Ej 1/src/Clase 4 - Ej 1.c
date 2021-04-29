@@ -1,11 +1,5 @@
 /*
- ============================================================================
- Name        : Clase.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
+ ENTREGADO
  */
 
 #include <stdio.h>
@@ -29,7 +23,7 @@ int factorial(int numero)
 
 	if(numero == 1)
 	{
-		return 1;
+		return numero;
 	}
 
 	resultado = numero * factorial(numero - 1);

@@ -1,0 +1,33 @@
+
+ ----------- UI ----------- 
+ // Consola.
+ // Mostrar opciones y pedir el ingreso de alguna:
+	// Convertir Celsius en Fahrenheit (1)
+	// Convertir Fahrenheit en Celsius (2)
+	// Validar ingreso de solo opcion 1 o 2.
+ // Limpiar pantalla.
+ // Pedir ingreso de la temperatura en la escala base.
+	// Validar que la temp. este entre congelacion y ebullecion.
+ // Mostrar la temperatura en la escala a convertir.
+ // Preguntar si se quiere convertir otra temperatura.
+	// Afirmativo: Reiniciar programa
+	// Negativo: Terminar programa
+
+ ----------- LOGICA ----------- 
+ Limpiar pantalla.
+ Metodo: mensaje de bienvenida
+ Metodo: iniciar menu
+ Metodo: mostrar menu de opciones y pedir opciones
+ Metodo: validar ingreso de opcion
+ Metodo: pedir la temperatura
+ Metodo: validar temperatura C°
+ Metodo: validar temperaatura F°
+ Metodo: convertir de C° a F°
+ Metodo: convertir de F° a C°
+ Metodo: preguntar por reinicio y reiniciar o terminar.
+
+
+ ----------- DATA ----------- 
+ (int) opcionElegida
+ (float) temperaturaBase
+ (float) temperaturaConvertida
