@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-
+// INT
 int isNumerical(char* cadena)
 {
 	int exitoFuncion = 1;
@@ -23,7 +23,6 @@ int isNumerical(char* cadena)
 
 	return exitoFuncion;
 }
-
 int getInt(int* pResultado)
 {
 	int exitoFuncion = 0;
@@ -37,7 +36,6 @@ int getInt(int* pResultado)
 
 	return exitoFuncion;
 }
-
 int utn_getNumberLimited(int* pNumero, char* mensaje, char* mensajeError, int numeroMinimo, int numeroMaximo, int reintentosMaximos)
 {
 	int exitoFuncion = -1;
@@ -66,7 +64,6 @@ int utn_getNumberLimited(int* pNumero, char* mensaje, char* mensajeError, int nu
 
 	return exitoFuncion;
 }
-
 int utn_getNumber(int* pNumero, char* mensaje, char* mensajeError, int reintentosMaximos)
 {
 	int exitoFuncion = 0;
@@ -92,3 +89,11 @@ int utn_getNumber(int* pNumero, char* mensaje, char* mensajeError, int reintento
 
 	return exitoFuncion;
 }
+
+// FLOAT
+
+// CHAR
+
+// STRING
+
+
